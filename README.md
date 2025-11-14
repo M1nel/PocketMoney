@@ -1,2 +1,2 @@
-# PocketMoney
-This is a highschool procjet whic allows students to find some job for money.
+# Pocket Money
+Pocket Money is a high school project conceived as LinkedIn but for high school students, generally young people between 14-18 years old. PocketMoney is a site that would allow you to find some temporary and casual jobs to earn some pocket money. The project was first conceived only for a high school competition, the Maarif Science Fair, but there were some indications that this project could fully come to life, and this is its beta version.
